@@ -1,8 +1,8 @@
-#lucotavio account
-Host github.com-lucotavio
+#luc-git-projects account
+Host github.com-luc-git-projects
      HostName github.com
      User git
-     IdentityFile ~/.ssh/lucotavio
+     IdentityFile ~/.ssh/luc-git-projects
 
 #lucgithub343 account
 Host github.com-lucgithub343
